@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SampleView",
+        "repositoryURL": "https://github.com/lunjiang/SampleLib.git",
+        "state": {
+          "branch": null,
+          "revision": "299c0f49c6c0169117bc48e96dc336572465ddf7",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
